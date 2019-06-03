@@ -20,5 +20,8 @@ public class YycustomApplication {
     @LoadBalanced  /*负载均衡*/
      RestTemplate rs(){
         return  new RestTemplate();
+
+
+
     };
 }
