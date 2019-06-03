@@ -54,6 +54,8 @@ public class CustomController {
 
         UserBean  user  = new UserBean();
 
+
+
         user.setUid("yy");
         user.setUname("11111查无此人");
         user.setUphone("号码为空11111");
